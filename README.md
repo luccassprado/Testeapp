@@ -9,6 +9,6 @@ Execute o script
 digite o numero de 1 a 10 na primeira nota e a segunda nota.
 Sistema ira rodar logo abaixo. 
 
-*Autor e Contato*
+*Autor e Contato:*
 Lucas Prado
 
